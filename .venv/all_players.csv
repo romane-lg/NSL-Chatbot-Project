@@ -1,0 +1,133 @@
+team_id,team,position,jersey,name,nationality,fact,attributes
+1,Montreal Roses,Forward,7,Noémi Paquin,Canada,"Former FIU Panthers standout, CUSA Offensive Player of the Year",Finishing | Ball Control | Stamina
+1,Montreal Roses,Forward,12,Tanya Boychuk,Canada,Former Vittsjö GIK player,Shooting Power | Movement Off the Ball | Stamina
+1,Montreal Roses,Forward,99,Latifah Abdu,Canada,Former Guingamp player,Finishing | Shooting Power | Stamina
+1,Montreal Roses,Midfielder,6,Alexandria Hess,Canada,Former MSV Duisburg player,Crossing | Ball control | Tackling & Interceptions
+1,Montreal Roses,Midfielder,8,Mara Bouchard,Canada,Former McGill University player,Shooting | Dribbling | Ball control
+1,Montreal Roses,Midfielder,14,Claire Monyard,Canada,Former Miami Athletic Club player,Tackling & Interceptions | Passing | Shooting
+1,Montreal Roses,Midfielder,18,Charlotte Bilbault,Canada,Former Montpellier player,Ball control | Dribbling | Shooting
+1,Montreal Roses,Midfielder,19,Lorie Thibault,Canada,Former Montreal Carabins player,Dribbling | Ball control | Passing
+1,Montreal Roses,Midfielder,20,Mégane Sauvé,Canada,Former Sporting C.P. player,Tackling & Interceptions | Passing | Dribbling
+1,Montreal Roses,Midfielder,23,Félicia Roy,Canada,Canada U17 international,Dribbling | Ball control | Tackling & Interceptions
+1,Montreal Roses,Defender,2,Lucy Cappadona,Canada,Former UConn Huskies player,Communication | Positioning | Marking
+1,Montreal Roses,Defender,3,Hailey Whitaker,Canada,Former Valur player,Tackling | Marking | Interception
+1,Montreal Roses,Defender,4,Stéphanie Hill,Canada,Former McGill University player,Interception | Communication | Positioning
+1,Montreal Roses,Defender,5,Julia Leas,Canada,Former Vittsjö GIK player,Clearances | Marking | Tackling
+1,Montreal Roses,Defender,17,Jodi Smith,Canada,Former Tormenta FC player,Marking | Clearances | Tackling
+1,Montreal Roses,Defender,21,Mathilde Lachance,Canada,Former Université Laval player,Tackling | Clearances | Interception
+1,Montreal Roses,Defender,22,Lara Schenk,Germany,Former Sporting de Huelva player,Positioning | Interception | Tackling
+1,Montreal Roses,Goalkeeper,1,Anna Karpenko,Canada,Former Vaughan Azzurri player,Resilience | Commanding the Box | Handling
+1,Montreal Roses,Goalkeeper,26,Gabrielle Lambert,Canada,Former SC Freiburg player,Handling | Decision-Making | Resilience
+1,Montreal Roses,Goalkeeper,30,Anne-Marie Laroche,Canada,Former Royal-Sélect de Beauport player,Handling | Shot-Stopping | Commanding the Box
+2,Vancouver Rise FC,Forward,9,Mariah Lee,USA,Joined in 2025 from DC Power,Dribbling | Stamina | Ball Control
+2,Vancouver Rise FC,Forward,11,Jessica De Filippo,Canada,Moved up from Whitecaps FC Girls Elite in 2025,Shooting Power | Stamina | Finishing
+2,Vancouver Rise FC,Forward,19,Holly Ward,Canada,"First professional season after university, also an international debut in 2025",Finishing | Dribbling | Ball Control
+2,Vancouver Rise FC,Forward,25,Nedya Sawan,USA,Signed for 2025 season from Westside Timbers,Finishing | Movement Off the Ball | Ball Control
+2,Vancouver Rise FC,Forward,49,Jade Mitchell,Jamaica,Academy graduate signed in 2025,Stamina | Shooting Power | Finishing
+2,Vancouver Rise FC,Midfielder,5,Quinn,Canada,Major signing for 2025 from Seattle Reign,Ball control | Dribbling | Tackling & Interceptions
+2,Vancouver Rise FC,Midfielder,6,Sofia Hagman,Sweden,Signed for 2025 season from Vittsjö GIK,Ball control | Tackling & Interceptions | Shooting
+2,Vancouver Rise FC,Midfielder,7,Nikki Stanton,USA,Signed for 2025 season from Seattle Reign,Dribbling | Passing | Crossing
+2,Vancouver Rise FC,Midfielder,8,Samantha Chang,Canada,Signed for 2025 season from Hjørring,Dribbling | Shooting | Ball control
+2,Vancouver Rise FC,Midfielder,10,Lisa Pechersky,Canada,Signed for 2025 season from Vittsjö GIK,Passing | Ball control | Shooting
+2,Vancouver Rise FC,Midfielder,17,Sara Lilja Vidlund,Sweden,Signed for 2025 season from Djurgårdens IF,Passing | Crossing | Dribbling
+2,Vancouver Rise FC,Midfielder,24,Josie Longhurst,Wales,Signed for 2025 season from Whitecaps FC Girls Elite,Shooting | Crossing | Tackling & Interceptions
+2,Vancouver Rise FC,Midfielder,26,Ana Oularbi,Algeria,Signed in 2025 from CS Mont-Royal Outremont,Shooting | Dribbling | Tackling & Interceptions
+2,Vancouver Rise FC,Midfielder,33,Sienna Gibson,Canada,Academy graduate signed for 2025 from Altitude FC,Tackling & Interceptions | Crossing | Dribbling
+2,Vancouver Rise FC,Midfielder,36,Emily Wong,Canada,Academy graduate signed for 2025 from Vancouver Rise Academy,Crossing | Passing | Dribbling
+2,Vancouver Rise FC,Defender,2,Shannon Woeller,Canada,Signed for 2025 from Vittsjö GIK,Positioning | Clearances | Communication
+2,Vancouver Rise FC,Defender,3,Jasmyne Spencer,USA,Signed for 2025 from Angel City,Marking | Clearances | Tackling
+2,Vancouver Rise FC,Defender,4,Kayla Gonsalves,Canada,Signed for 2025 season from Famalicão,Tackling | Marking | Clearances
+2,Vancouver Rise FC,Defender,12,Jaylyn Wright,Canada,Signed for 2025 from Fresno State Bulldogs,Clearances | Tackling | Interception
+2,Vancouver Rise FC,Defender,15,Ariel Young,Canada,Signed for 2025 season from Fortuna Hjørring,Clearances | Interception | Positioning
+2,Vancouver Rise FC,Defender,16,Kennedy Jade Faulknor,Canada,Signed for 2025 season from Minnesota Aurora; Canada international,Clearances | Communication | Positioning
+2,Vancouver Rise FC,Defender,18,Yuka Okamoto,Japan,Signed for 2025 from AC Nagano Parceiro,Positioning | Tackling | Interception
+2,Vancouver Rise FC,Defender,21,Jessika Cowart,Philippines,Signed for 2025 season from Perth Glory; Philippines international,Communication | Positioning | Clearances
+2,Vancouver Rise FC,Defender,38,Chloe Taylor,Canada,Academy graduate promoted in 2025,Marking | Interception | Tackling
+2,Vancouver Rise FC,Goalkeeper,1,Kirstin Tynan,Canada,Signed for 2025 from TSS Rovers,Commanding the Box | Resilience | Decision-Making
+2,Vancouver Rise FC,Goalkeeper,13,Morgan McAslan,Canada,Signed for 2025 from Whitecaps FC Girls Elite,Resilience | Handling | Decision-Making
+2,Vancouver Rise FC,Goalkeeper,31,Jessica Wulf,Japan,Signed for 2025 season from Nippon TV Tokyo Verdy Beleza,Distrbution | Resilience | Shot-Stopping
+3,Calgary Wild FC,Forward,4,Jorian Baucom,USA,"Signed for 2025 season, previously Fort Lauderdale",Dribbling | Stamina | Shooting Power
+3,Calgary Wild FC,Forward,12,Christie Gray,Canada,"Signed for 2025 season, previously Shelbourne",Movement Off the Ball | Stamina | Ball Control
+3,Calgary Wild FC,Forward,15,Kahli Johnson,Australia,"Signed for 2025 season, previously Western United",Finishing | Ball Control | Stamina
+3,Calgary Wild FC,Forward,17,Danielle Steer,Canada,"Signed for 2025 season, previously Treaty United",Stamina | Movement Off the Ball | Finishing
+3,Calgary Wild FC,Forward,18,Serita Thurton,Canada,"Signed for 2025 season, previously South Florida Bulls",Shooting Power | Dribbling | Ball Control
+3,Calgary Wild FC,Forward,23,Kathryn Harvey,Canada,Signed July 2025 from Melbourne City FC,Ball Control | Stamina | Finishing
+3,Calgary Wild FC,Midfielder,6,Jaclyn Sawicki,Canada,"Veteran international, plays as midfielder",Passing | Shooting | Tackling & Interceptions
+3,Calgary Wild FC,Midfielder,8,Sonia O'Neill,Venezuela,"Signed for 2025 season, previously London City Lionesses",Crossing | Ball control | Tackling & Interceptions
+3,Calgary Wild FC,Midfielder,10,Farkhunda Muhtaj,Afghanistan,"Signed for 2025 season, previously Fortuna Sittard",Dribbling | Tackling & Interceptions | Crossing
+3,Calgary Wild FC,Midfielder,14,Madison Wilson,Canada,"Signed for 2025 season, previously Iowa Hawkeyes",Passing | Dribbling | Tackling & Interceptions
+3,Calgary Wild FC,Midfielder,16,Jenaya Robertson,Canada,"Signed for 2025 season, previously Unity FC",Dribbling | Passing | Crossing
+3,Calgary Wild FC,Midfielder,19,Taegan Stewart,Wales,"Signed for 2025 season, previously ASA High Performance",Shooting | Tackling & Interceptions | Passing
+3,Calgary Wild FC,Midfielder,28,Meggie Dougherty Howard,USA,"Former NWSL player, signed for 2025 from Angel City",Dribbling | Tackling & Interceptions | Crossing
+3,Calgary Wild FC,Midfielder,30,Keelyn Stewart,Wales,"Signed for 2025 season, previously ASA High Performance",Passing | Crossing | Dribbling
+3,Calgary Wild FC,Defender,2,Grace Stordy,Canada,"Local talent, signed for 2025 season",Positioning | Marking | Interception
+3,Calgary Wild FC,Defender,3,Ally Green,New Zealand,"Signed for 2025 season, previously AGF",Tackling | Interception | Positioning
+3,Calgary Wild FC,Defender,5,Meikayla Moore,New Zealand,"Signed for 2025 season, previously Glasgow City",Interception | Tackling | Clearances
+3,Calgary Wild FC,Defender,7,Caleigh Boeckx,Canada,"Signed for 2025 season, previously Treaty United",Interception | Positioning | Tackling
+3,Calgary Wild FC,Defender,9,Mijke Roelfsema,Netherlands,"Signed for 2025 season, previously Treaty United",Interception | Positioning | Tackling
+3,Calgary Wild FC,Defender,11,Tilly James,New Zealand,"Signed for 2025 season, previously Trinity Western Spartans",Tackling | Positioning | Interception
+3,Calgary Wild FC,Defender,44,Talia White,Canada,"Signed for 2025 season, previously Treaty United",Clearances | Tackling | Marking
+3,Calgary Wild FC,Goalkeeper,1,Stephanie Bukovec,Croatia,"Signed for 2025 season, previously Standard Ligua",Distrbution | Decision-Making | Resilience
+3,Calgary Wild FC,Goalkeeper,26,Sarah Keilty Dilling,Canada,Signed for 2025 season,Handling | Distrbution | Shot-Stopping
+3,Calgary Wild FC,Goalkeeper,25,Jackie Burns,Northern Ireland,"Signed for 2025 season, previously Bristol City",Distrbution | Commanding the Box | Resilience
+4,AFC Toronto,Forward,9,Shaina Ashouri,USA,Dynamic attacking forward,Movement Off the Ball | Shooting Power | Finishing
+4,AFC Toronto,Forward,10,Jade Kovacevic,Canada,Prolific goal scorer,Shooting Power | Stamina | Movement Off the Ball
+4,AFC Toronto,Forward,11,Kaylee Hunter,Canada,Youth international talent,Finishing | Ball Control | Shooting Power
+4,AFC Toronto,Forward,7,Leah Pais,Canada,Energetic forward,Finishing | Shooting Power | Ball Control
+4,AFC Toronto,Midfielder,8,Colby Barnett,USA,Creative playmaker,Ball control | Passing | Tackling & Interceptions
+4,AFC Toronto,Midfielder,6,Aoi Kizaki,Japanese,Technical playmaker,Passing | Ball control | Dribbling
+4,AFC Toronto,Midfielder,12,Ivymae Perez,Philippines,Midfield maestro,Crossing | Passing | Tackling & Interceptions
+4,AFC Toronto,Midfielder,14,Nikayla Small,Canada,Versatile midfielder,Ball control | Dribbling | Crossing
+4,AFC Toronto,Midfielder,15,Cloey Uddenberg,Canada,Defensive midfielder,Dribbling | Passing | Tackling & Interceptions
+4,AFC Toronto,Midfielder,16,Emma Regan,Canada,Defensive rock,Passing | Dribbling | Tackling & Interceptions
+4,AFC Toronto,Midfielder,17,Victoria Pickett,Canada,Assists leader,Shooting | Crossing | Tackling & Interceptions
+4,AFC Toronto,Midfielder,18,April Lantaigne,Canada,Box-to-box midfielder,Passing | Tackling & Interceptions | Ball control
+4,AFC Toronto,Defender,2,Ashley Cathro,Canada,Defensive anchor,Positioning | Tackling | Interception
+4,AFC Toronto,Defender,3,Kaela Hansen,Canada,Strong tackler,Marking | Interception | Communication
+4,AFC Toronto,Defender,4,Hong Hyeâ€‘ji,South Korea,Tactical defender,Tackling | Clearances | Marking
+4,AFC Toronto,Defender,5,Sarah Rollins,Canada,Versatile defender,Interception | Positioning | Clearances
+4,AFC Toronto,Defender,22,Croix Soto,USA,Fast and aggressive,Positioning | Tackling | Clearances
+4,AFC Toronto,Goalkeeper,1,Sierra Cotayarde,Canada,Most clean sheets,Resilience | Decision-Making | Shot-Stopping
+4,AFC Toronto,Goalkeeper,30,Sofia Manner,Finland,Shot stopper,Handling | Distrbution | Resilience
+5,Halifax Tides FC,Forward,7,Christabel Oduro,Canada,Signed for inaugural 2025 season,Finishing | Movement Off the Ball | Shooting Power
+5,Halifax Tides FC,Forward,24,Megumi Nakamura,Japan,Signed Jan 2025 from AC Nagano Parceiro; plays as midfielder/forward,Movement Off the Ball | Stamina | Ball Control
+5,Halifax Tides FC,Midfielder,4,Marika Guay,Canada,Midfielder signed in 2025 from CS Longueuil,Dribbling | Passing | Tackling & Interceptions
+5,Halifax Tides FC,Midfielder,9,Gunnhildur Yrsattir,Iceland,Midfielder signed in 2025 from Stjarnan,Shooting | Passing | Dribbling
+5,Halifax Tides FC,Midfielder,11,Saorla Miller,Ireland,Signed in 2025 from Keflavak,Ball control | Crossing | Passing
+5,Halifax Tides FC,Midfielder,14,Sarah Taylor,Canada,Signed for 2025 season,Dribbling | Passing | Tackling & Interceptions
+5,Halifax Tides FC,Midfielder,15,Daphnée Blouin,Canada,Signed for 2025 season from Laval Rouge et Or,Dribbling | Ball control | Shooting
+5,Halifax Tides FC,Midfielder,21,Anne-Valerie Seto,Canada,Signed for 2025 season from Memphis Tigers,Crossing | Passing | Dribbling
+5,Halifax Tides FC,Midfielder,22,Milly Clegg,New Zealand,Signed for 2025 season from Racing Louisville,Shooting | Passing | Ball control
+5,Halifax Tides FC,Midfielder,23,Gianna Creighton,USA,Signed for 2025 from UC Irvine Anteaters,Crossing | Passing | Shooting
+5,Halifax Tides FC,Midfielder,32,Sydney Kennedy,Canada,Signed for 2025 season from Acadia Axewomen,Shooting | Ball control | Dribbling
+5,Halifax Tides FC,Defender,2,Mya Harnish,Canada,Signed for 2025 season from Acadia Axewomen,Clearances | Tackling | Interception
+5,Halifax Tides FC,Defender,5,Annika Leslie,Canada,Signed for 2025 season from West Virginia Mountaineers,Interception | Marking | Tackling
+5,Halifax Tides FC,Defender,5,Sara Olai,Canada,Signed for 2025 season from IF Brommapojkarna,Marking | Interception | Positioning
+5,Halifax Tides FC,Defender,8,Karima Lemire,Canada,Signed for 2025 season from Clube de Albergaria,Marking | Positioning | Tackling
+5,Halifax Tides FC,Defender,13,Kiley Norkus,Canada,Signed for 2025 season from Amed S.F.K.,Tackling | Communication | Clearances
+5,Halifax Tides FC,Defender,16,Addison Weichers,Canada,Signed for 2025 season from Utah State Aggies,Clearances | Communication | Interception
+5,Halifax Tides FC,Defender,28,Anna Frémaux,Canada,Signed for 2025 season from Nantes,Positioning | Marking | Tackling
+5,Halifax Tides FC,Goalkeeper,1,Erin McLeod,Canada,"Olympicâ€‘medalist, first signing ahead of 2025 season; former CanWNT starter",Shot-Stopping | Commanding the Box | Resilience
+5,Halifax Tides FC,Goalkeeper,12,Anika Tarth,Canada,Signed for 2025 season from Woodbridge Strikers,Handling | Decision-Making | Resilience
+5,Halifax Tides FC,Goalkeeper,18,Sophie Guilmette,Canada,Signed for 2025 season from McGill Martlets,Resilience | Distrbution | Commanding the Box
+6,Ottawa Rapid FC,Forward,7,Johanne Fridlund,Norway,Former Kolbotn and Lazio player; Norway youth international,Shooting Power | Movement Off the Ball | Ball Control
+6,Ottawa Rapid FC,Forward,9,Jazmine Wilkinson,Canada,Canada forward who scored 2 goals in 2 appearances in 2025 season,Movement Off the Ball | Ball Control | Shooting Power
+6,Ottawa Rapid FC,Forward,13,Ngozi Sonia Okobia Okeoghene,Nigeria,Senior Nigeria international; former Levante Las Planas forward,Finishing | Stamina | Dribbling
+6,Ottawa Rapid FC,Forward,21,Melanie Forbes,Canada,Canada forward; 4 goals in 11 appearances in 2025,Stamina | Ball Control | Shooting Power
+6,Ottawa Rapid FC,Forward,22,Delaney Baie Pridham,Canada,Canada forward; key contributor with 16 goals in 2025 season,Ball Control | Dribbling | Stamina
+6,Ottawa Rapid FC,Forward,98,Stella Downing,Canada,Canada forward; strong scoring presence in 2025,Finishing | Ball Control | Shooting Power
+6,Ottawa Rapid FC,Forward,10,Florence Belzile,Canada,Canada forward; 7 goals in 9 appearances in 2025,Dribbling | Ball Control | Finishing
+6,Ottawa Rapid FC,Midfielder,4,Miranda Smith,Canada,Midfielder who contributed goals early in 2025 season,Dribbling | Ball control | Crossing
+6,Ottawa Rapid FC,Midfielder,5,Emily Amano,Canada,Midfielder (Canada) featured in 2025 squad,Ball control | Tackling & Interceptions | Crossing
+6,Ottawa Rapid FC,Midfielder,6,Julia Benati,Canada,Canada midfielder; 10 goals in 12 appearances in 2025,Passing | Ball control | Dribbling
+6,Ottawa Rapid FC,Midfielder,8,Ellen Gibson,Swedish,Swedish midfielder with goal and assist contributions in 2025,Tackling & Interceptions | Passing | Shooting
+6,Ottawa Rapid FC,Midfielder,11,Desiree Scott,Canada,"Veteran Canada international, came out of retirement to join Rapid",Crossing | Tackling & Interceptions | Ball control
+6,Ottawa Rapid FC,Midfielder,14,Mina Lee,South Korea,South Korea international midfielder in 2025 squad,Ball control | Tackling & Interceptions | Crossing
+6,Ottawa Rapid FC,Defender,3,Kayla Adamek,Polan,Poland international defender midfielder hybrid,Clearances | Interception | Marking
+6,Ottawa Rapid FC,Defender,2,Susanne Haaland,Norway,Norway defender regular starter in 2025,Positioning | Marking | Interception
+6,Ottawa Rapid FC,Defender,33,Jyllissa Harris,USA,USA defender featured in 2025 lineup,Communication | Marking | Interception
+6,Ottawa Rapid FC,Defender,19,Choo Hyojoo,South Korea,South Korea international defender in 2025 team,Interception | Positioning | Communication
+6,Ottawa Rapid FC,Defender,18,Olivia Scott,Canada,Canada U15 & U17 international; co-captain of Ottawa Rapid,Interception | Positioning | Marking
+6,Ottawa Rapid FC,Defender,15,Nicola Golen,Canada,Canada defender contributing in 2025 season,Positioning | Communication | Interception
+6,Ottawa Rapid FC,Goalkeeper,30,Melissa Dagenais,Canada,Former Miami Hurricanes standout; joined Rapid as goalkeeper in 2025,Commanding the Box | Distrbution | Decision-Making
+6,Ottawa Rapid FC,Goalkeeper,1,Mollie Eriksson,Canada,Signed in 2025; former League1 Ontario standout and called up to Canada national team,Shot-Stopping | Distrbution | Decision-Making
